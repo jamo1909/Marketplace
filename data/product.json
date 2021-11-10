@@ -1,0 +1,6 @@
+[
+{"id": 1, "title": "bitcoin", "price": 4500, "picture": "images/menu-1.png"},
+  {"id": 2, "title": "ethereum", "price": 5500, "picture": "images/menu-2.png"},
+  {"id": 3, "title": 'dogecoin', "price": 3800, "picture": "images/menu-3.png"},
+  {"id": 4, "title": 'litecoin', "price": 8500, "picture": "images/menu-4.png"}
+]
